@@ -1,2 +1,2 @@
 # gpawslambda
-Example graph processor with AWS Lambda.
+Example graph processor with AWS Lambda
